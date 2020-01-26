@@ -57,7 +57,7 @@ public class gui_fenster extends JFrame {
 		hoch = new hochrunter(this);
 		links = new linksrechts(this);
 //		posmouse.setBackground(Color.RED);
-		posmouse.setSize(200, 30);
+		posmouse.setSize(500, 30);
 		canvashint.add(posmouse);
 		posmouse.setEditable(false);
 		posmouse.setBackground(Color.WHITE);
@@ -85,6 +85,7 @@ public class gui_fenster extends JFrame {
 	public void mouseanzeigen() {
 		posmouse.setLocation(0, canvashint.getHeight() - posmouse.getHeight() -60);
 		try {
+			posmouse.setSize(200, 30);
 			if (posmouse != null && canvas != null && canvas.getLocation() != null)
 				posmouse.setText("Mouse (" + (int) (getMousePosition().x - canvas.getLocation().x) +","+(getMousePosition().y - canvas.getLocation().y) +")");
 		} catch (Exception e) {
