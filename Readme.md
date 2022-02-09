@@ -1,7 +1,7 @@
 # Algoresent
 
-This Progamm is capable of creating flow charts
-This Project was made in 2019, but is here reuploaded
+This Progamm is capable of creating flow charts<br>
+This Project was made in 2019
 
 ![Bild](imgs/img.PNG)
 
