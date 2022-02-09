@@ -7,8 +7,8 @@ This Project was made in 2019
 
 - Motivation
 - Description
-- External Tools
 - Learnings
+- External Tools
 
 ## Motivation
 This Project was done for fun and to improve my java skills.
