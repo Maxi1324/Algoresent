@@ -20,7 +20,8 @@ Flow charts are used to represent algorithms without code. Algoresent, this Prog
 The building blocks of algorithms can be placed via drag and drop.
 And connected by clicking on the arrow connection points.
 
-The Algorihmus can be exported as an png. 
+The Algorihmus can be exported as an png. <br>
+
 ![exportpng](imgs/exportpng.png))
 
 ## Learnings
